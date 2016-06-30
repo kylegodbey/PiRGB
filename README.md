@@ -1,1 +1,2 @@
 # PiRGB
+Allows a RPi to turn an LED array on in different colors or on a cycle. Very primitive and more of a proof of concept. This should be independent of hardware setup, as I tuned the colors based on the input to the program and not the other way around. Future work was to be programming a mobile interface, although I have stalled the project due to unfortunate explosion of my LEDs.. lessons were learned, however!
